@@ -88,32 +88,32 @@ python video_downloader.py <URL> [options]
 
 **Download best quality to current folder:**
 ```bash
-python video_downloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+python video_downloader.py "https://www.youtube.com/xxxxxxxxxxxxxxxxxx"
 ```
 
 **Save to a specific folder:**
 ```bash
-python video_downloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ" -o "C:\Users\Dustin\Videos"
+python video_downloader.py "https://www.youtube.com/xxxxxxxxxxxxxxxxxx" -o "C:\Users\[xxxxxx]\Videos"
 ```
 
 **Download audio only (MP3):**
 ```bash
-python video_downloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ" --audio-only
+python video_downloader.py "https://www.youtube.com/xxxxxxxxxxxxxxxxxx" --audio-only
 ```
 
 **List available formats first:**
 ```bash
-python video_downloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ" --list-formats
+python video_downloader.py "https://www.youtube.com/xxxxxxxxxxxxxxxxxx" --list-formats
 ```
 
 **Pick a specific format code:**
 ```bash
-python video_downloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ" -q "137+140"
+python video_downloader.py "https://www.youtube.com/xxxxxxxxxxxxxxxxxx" -q "137+140"
 ```
 
 **Download smallest/worst quality:**
 ```bash
-python video_downloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ" -q worst
+python video_downloader.py "https://www.youtube.com/xxxxxxxxxxxxxxxxxx" -q worst
 ```
 
 ---
