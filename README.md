@@ -54,7 +54,7 @@ sudo apt install ffmpeg nodejs
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/video-downloader.git
+git clone https://github.com/dsvenom312/video-downloader.git
 cd video-downloader
 
 # 2. Install yt-dlp
